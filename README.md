@@ -6,9 +6,9 @@
 
   <H3>Backend</H3>
   - account 
-      login 
-      sign up
-      activation mail
+      login <br>
+      sign up<br>
+      activation mail<br>
   - products
       (get product by name)
   - home
